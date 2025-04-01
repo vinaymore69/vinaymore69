@@ -26,13 +26,13 @@
 
 
 ### **Frontend & UI Libraries:**  
-React, Next.js, Svelte, Bootstrap, TailwindCSS, MUI, Chakra UI, Styled Components, Gatsby, Three.js, jQuery, GreenSock  
+React, Bootstrap, TailwindCSS, MUI, Styled Components, Three.js, GreenSock  
 
 ### **Backend & Databases:**  
-Node.js, Express.js, Apollo-GraphQL, Strapi, MySQL, MongoDB, Firebase, Supabase  
+Node.js, Express.js, MySQL, MongoDB, Supabase  
 
 ### **Tools & Platforms:**  
-GitHub, Heroku, Firebase, Netlify, Render, Vercel, GitHub Pages, Web3.js, WordPress, Canva, Figma, Chart.js  
+GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, Web3.js, WordPress, Canva, Figma, Chart.js  
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay--more/)  
