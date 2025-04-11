@@ -37,6 +37,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![DSA](https://img.shields.io/badge/DSA-4B0082?style=for-the-badge&logo=codewars&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 🛠️ C, C++, Java, Python, JavaScript, TypeScript  
 🌐 HTML5, CSS3, PHP, Solidity  
