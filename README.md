@@ -14,12 +14,7 @@
 - 🛠️ Building **cool side projects**  
 
 ## 💻 Tech Stack
-
-## 🖥️ Languages I Code In  
-
-
-## 💻 Tech Stack
-**Languages I Code In:**  
+**Languages I Code In 7 Tools i Use:**  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -54,10 +49,10 @@
 React, Bootstrap, TailwindCSS, MUI, Styled Components, Three.js, GreenSock  
 
 ### **Backend & Databases:**  
-Node.js, Express.js, MySQL, MongoDB, Supabase  
+Node.js [learning], Express.js, MySQL, Supabase  
 
 ### **Tools & Platforms:**  
-GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, Web3.js, WordPress, Canva, Figma, Chart.js  
+GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart.js  
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay--more/)  
