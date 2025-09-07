@@ -40,7 +40,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![FLUTTER](https://img.shields.io/badge/FLUTTER-88CE12?style=for-the-badge&logo=flutter&logoColor=white) 
 
 🛠️ C, C++, Java, Python, JavaScript, TypeScript  
 🌐 HTML5, CSS3, PHP, Solidity  
