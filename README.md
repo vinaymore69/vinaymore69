@@ -64,7 +64,8 @@ GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 
 ### **Most Used Languages:**  
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=heTref&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://camo.githubusercontent.com/8d831096bcddd291f29f2fbb913f74a50b66f2d5483a99a93448769cab5ce27a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heTref&theme=dark&title_color=ffffff&icon_color=ffff00&text_color=cccccc)
+
 
 
 ### **GitHub Trophies:**  
