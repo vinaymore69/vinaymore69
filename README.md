@@ -51,6 +51,7 @@
 ### **Frontend & UI Libraries:**  
 React, Bootstrap, TailwindCSS, MUI, Styled Components, Three.js, GreenSock  
 
+
 ### **Backend & Databases:**  
 Node.js [learning], Express.js, MySQL, Supabase  
 
@@ -62,4 +63,9 @@ GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaymore69) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 
+### **GitHub Trophies:**  
+![trophy](https://github-profile-trophy.vercel.app/?username=heTref&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ⚡ **Code. Debug. Repeat.** 🚀  
+
+
