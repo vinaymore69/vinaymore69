@@ -58,6 +58,10 @@ Node.js [learning], Express.js, MySQL, Supabase
 ### **Tools & Platforms:**  
 GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart.js  
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaymore69&theme=react-dark&hide_border=true&area=true&height=350&width=1200)
+
+
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay--more/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaymore69) 
