@@ -61,8 +61,6 @@ GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaymore69&theme=react-dark&hide_border=true&area=true&height=350&width=1200)
 
-![](https://raw.githubusercontent.com/vinaymore69/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vinaymore69/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay--more/) 
