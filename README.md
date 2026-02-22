@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Vinay More  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hii+i+an+Vinay+Prakash+More;I+am++Full+Time+Learner;I+like+to+develop+Softwares+for+solving+Industry+problems.)](https://git.io/typing-svg)
 
 🚀 Passionate **programmer** who loves working with **core programming languages** and solving complex problems with clean and efficient code.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hii+i+an+Vinay+Prakash+More;I+am++Full+Time+Learner;I+like+to+develop+Softwares+for+solving+Industry+problems.)](https://git.io/typing-svg)
+
 
 ## 🔥 About Me
 - 💻 I code in **C, C++, Java, Python**  
