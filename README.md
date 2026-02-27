@@ -75,8 +75,7 @@ GitHub, Firebase, Netlify, Render, Vercel, GitHub Pages, WordPress, Figma, Chart
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay--more/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaymore69) 
 
-### **Most Used Languages:**  
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaymore69&show_icons=true&theme=radical&title_color=ffffff&icon_color=facc15&text_color=ffffff&bg_color=151515)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinaymore69&theme=neon&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### **GitHub Trophies:**  
 ![trophy](https://github-profile-trophy.vercel.app/?username=heTref&theme=radical&no-frame=false&no-bg=true&margin-w=4)
